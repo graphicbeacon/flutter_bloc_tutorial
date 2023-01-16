@@ -1,6 +1,8 @@
-# flbloc_demo
+# Flutter Bloc Tutorial
 
-Source code for the `flutter_bloc` Package Of The Week tutorial
+Source code for the `flutter_bloc` tutorial
+
+[Watch Tutorial](https://youtu.be/4fcBaGudzbI)
 
 ## Getting Started
 
